@@ -25,7 +25,6 @@ Majority of bike purchases come from the middle-age group.
 People with shorter commutes (0-1 miles) are more likely to buy a bike.
 ## Pivot Table
 ![Pivots](https://github.com/user-attachments/assets/77304814-ba6e-4b94-b64a-fb0d8429af1d)
-The above pivot tables were created in Excel to analyze income, commute distance, and age brackets in relation to bike purchases, forming the basis for the dashboard visualizations.
 
 ## Dashboard
 ![BikeBuyers Dashboard Image](https://github.com/user-attachments/assets/3f0144e8-d6a5-423a-bbe2-73800f720077)
